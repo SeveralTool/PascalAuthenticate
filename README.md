@@ -1,6 +1,8 @@
-# Sistema de Registro y Login en Pascal
+# Sistema de Registro y Login en Pascal | Registration and Login System in Pascal
 
-Este es un programa simple en Pascal que implementa un sistema de registro y login utilizando una función de hash para verificar las contraseñas. El programa fue desarrollado como parte de una tarea de programación.
+Este es un programa simple en Pascal que implementa un sistema de registro y login utilizando una función de hash para verificar las contraseñas. El programa fue desarrollado como parte de una tarea de programación para la universidad.
+
+This is a simple Pascal program that implements a registration and login system using a hash function to verify passwords. The program was developed as part of a programming assignment for university.
 
 ## Descripción del Programa
 
